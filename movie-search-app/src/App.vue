@@ -22,10 +22,3 @@ export default {
   color: #ABC4A1;
 }
 </style>
-
-<!-- COLOR TEMPLATE -->
-<!-- #BBDB9B -->
-<!-- #ABC4A1 -->
-<!-- #9DB4AB -->
-<!-- #8D9D90 -->
-<!-- #878E76 -->
